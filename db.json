@@ -1,0 +1,85 @@
+{
+  "profesores": [
+    {
+      "nombre": "Gabriel",
+      "apellido": "García",
+      "materias": [
+        {
+          "nombre": "NodeJS desde Cero"
+        },
+        {
+          "nombre": "ReactJS desde Cero"
+        },
+        {
+          "nombre": "JavaScript desde Cero"
+        },
+        {
+          "nombre": "Phyton desde Cero"
+        }
+      ],
+      "id": "920b"
+    },
+    {
+      "id": "92b1",
+      "nombre": "Blanca Mabel",
+      "apellido": "Vizgarra",
+      "materias": [
+        {
+          "nombre": "NodeJS para principiantes"
+        },
+        {
+          "nombre": "ReactJS para principiantes"
+        },
+        {
+          "nombre": "JavaScript para principiantes"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Mabel",
+      "apellido": "Vizgarra",
+      "promedio": 9.5,
+      "id": "0d9b"
+    },
+    {
+      "nombre": "Lionel",
+      "apellido": "Messi",
+      "promedio": 8.8,
+      "id": "565a"
+    },
+    {
+      "id": "0b13",
+      "nombre": "Emiliano",
+      "apellido": "Martinez",
+      "promedio": 7.7
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde Cero",
+      "duracion": 7,
+      "dificultad": "intermedio",
+      "id": "a88f"
+    },
+    {
+      "nombre": "ReactJS desde Cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "0f88"
+    },
+    {
+      "nombre": "JavaScript desde Cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "8dd4"
+    },
+    {
+      "nombre": "Phyton desde Cero",
+      "duracion": 6,
+      "dificultad": "intermedio",
+      "id": "b9a6"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-json-server",
+  "version": "1.0.0",
+  "description": "Armaremos un pequeño servidor con informador de cursos",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "Gabriel García",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.0"
+  }
+}
